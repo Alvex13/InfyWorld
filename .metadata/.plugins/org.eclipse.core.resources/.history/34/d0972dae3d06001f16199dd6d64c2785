@@ -1,0 +1,2 @@
+spring.application.name=InfyWorld
+server.port =9999

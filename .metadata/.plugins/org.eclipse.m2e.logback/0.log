@@ -1,0 +1,25 @@
+2024-04-29 20:54:45,295 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-29 20:55:51,631 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.infy:world:0.0.1-SNAPSHOT @ C:\Users\alvin.v\Videos\Personal\Workspaces\Workspace16\InfyWorld\pom.xml.
+2024-04-29 20:55:54,294 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InfyWorld/src/main/java
+2024-04-29 20:55:54,296 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InfyWorld/src/main/resources
+2024-04-29 20:55:54,315 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InfyWorld/src/main/resources
+2024-04-29 20:55:54,334 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InfyWorld/src/test/java
+2024-04-29 20:55:59,663 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2024-04-29 20:55:59,674 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-29 20:56:00,514 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.infy:world:0.0.1-SNAPSHOT @ C:\Users\alvin.v\Videos\Personal\Workspaces\Workspace16\InfyWorld\pom.xml.
+2024-04-29 20:56:02,139 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InfyWorld/src/main/java
+2024-04-29 20:56:02,140 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InfyWorld/src/main/resources
+2024-04-29 20:56:02,141 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InfyWorld/src/main/resources
+2024-04-29 20:56:02,143 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InfyWorld/src/test/java
+2024-04-29 20:56:03,964 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2024-04-29 21:02:43,796 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.infy:world:0.0.1-SNAPSHOT @ C:\Users\alvin.v\Videos\Personal\Workspaces\Workspace16\InfyWorld\pom.xml.
+2024-04-29 21:02:44,976 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-29 21:02:44,977 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-29 21:02:44,983 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alvin.v\Videos\Personal\Workspaces\Workspace16\InfyWorld\src\test\resources
+2024-04-29 21:02:46,872 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-29 21:02:46,918 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-29 21:02:46,927 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alvin.v\Videos\Personal\Workspaces\Workspace16\InfyWorld\src\test\resources
+2024-04-29 21:03:13,759 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-29 21:03:13,767 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-29 21:03:13,771 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alvin.v\Videos\Personal\Workspaces\Workspace16\InfyWorld\src\test\resources
+2024-04-29 21:03:29,686 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes

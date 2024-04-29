@@ -1,0 +1,12 @@
+package com.infy.world.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.infy.world.repository.CountryRepository;
+
+public class CountryService {
+
+	
+	@Autowired
+	private CountryRepository repo;
+}

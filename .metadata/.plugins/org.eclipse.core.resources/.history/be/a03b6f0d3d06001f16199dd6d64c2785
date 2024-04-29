@@ -1,0 +1,15 @@
+package com.infy.world.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name ="country4")
+public class Country {
+
+	
+	private int no;
+	private String code;
+	private String name;
+	private String continent;
+}
